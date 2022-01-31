@@ -1,3 +1,3 @@
-# TRNG_ex2
-Repository for Ex2 of Embedded Cryptography Book Section 9.1
-https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex2/main?urlpath=voila%2Frender%2FTRNG_ex2_nb.ipynb
+# TRNG_ex1
+Repository for Ex1 of Embedded Cryptography Book Section 9.1
+https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex1/main?urlpath=voila%2Frender%2FTRNG_ex1_nb.ipynb
