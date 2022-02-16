@@ -10,6 +10,6 @@ Your goal is to find the the smallest $D$, for which the EO-TRNG would not be di
 You should repeat the procedure for all possible $\frac{\sigma_{tot}}{T_{1}}$ and $\alpha_{1}$ values.
 
 
-![image](https://raw.githubusercontent.com/patrickhaddadteaching/TRNG_ex1/main/ex1.png = 10x)
+![image](https://raw.githubusercontent.com/patrickhaddadteaching/TRNG_ex1/main/ex1.png = 10px)
 
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
