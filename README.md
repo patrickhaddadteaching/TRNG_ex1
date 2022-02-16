@@ -7,7 +7,9 @@ The randomness is analyzed by observing the distribution and the auto-correlatio
 Note: In the case of an ideal RNG, the distribution and the auto-correlation are in 99.9% cases between the red lines.
 
 Your goal is to find the the smallest D, for which the EO-TRNG would not be distinguishable from an ideal RNG.
-<p>You should repeat the procedure for all possible $\frac{\sigma_{tot}}{T_{1}}$ and 	&#x3B1<sub>1</sub> values.</p>
+<p>You should repeat the procedure for all possible <sup>&#x3C3<sub>tot</sub></sup> &#8260 <sub>T<sub>1</sub></sub> and 	&#x3B1<sub>1</sub> values.</p>
+
+
 
 
 
