@@ -1,4 +1,4 @@
-Repository for Ex1 of Embedded Cryptography Book Section 9.1
+Repository for Exercise 1.1 of Embedded Cryptography Book Section 9
 
 In this exercise, you can play with an EO-TRNG.
 By scanning or clicking on the QR-code you can launch the application and observe how the duty cycle,the jitter variance and the accumulation time affect randomness of the generated numbers. 
