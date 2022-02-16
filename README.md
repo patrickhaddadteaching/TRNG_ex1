@@ -9,6 +9,6 @@ Note: In the case of an ideal RNG, the distribution and the auto-correlation are
 Your goal is to find the the smallest $D$, for which the EO-TRNG would not be distinguishable from an ideal RNG.
 You should repeat the procedure for all possible $\frac{\sigma_{tot}}{T_{1}}$ and $\alpha_{1}$ values.
 
-<img src="https://raw.githubusercontent.com/patrickhaddadteaching/TRNG_ex1/main/ex1.png" width="50%" height="50%">
 
-<p><a href="https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex1/main?urlpath=voila%2Frender%2FTRNG_ex1_nb.ipynb" target="_blank" rel="noopener noreferrer">  Click here to download the random values</a></p>
+
+<p><a href="https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex1/main?urlpath=voila%2Frender%2FTRNG_ex1_nb.ipynb" target="_blank" rel="noopener noreferrer">  <img src="https://raw.githubusercontent.com/patrickhaddadteaching/TRNG_ex1/main/ex1.png" width="50%" height="50%"></a></p>
