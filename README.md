@@ -11,4 +11,4 @@ You should repeat the procedure for all possible <img src="https://render.github
 
 
 
-<p><a href="https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex1/main?urlpath=voila%2Frender%2FTRNG_ex1_nb.ipynb" target="_blank" rel="noopener noreferrer">  <img src="https://raw.githubusercontent.com/patrickhaddadteaching/TRNG_ex1/main/ex1.png" width="50%" height="50%"></a></p>
+<p><a href="https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex1/main?urlpath=voila%2Frender%2FTRNG_ex1_nb.ipynb" target="_blank" rel="noopener noreferrer">  <img src="ex1.png" width="50%" height="50%"></a></p>
