@@ -1,4 +1,3 @@
-# TRNG_ex1
 Repository for Ex1 of Embedded Cryptography Book Section 9.1
 
 In this exercise, you can play with an EO-TRNG.
@@ -11,5 +10,3 @@ Your goal is to find the the smallest $D$, for which the EO-TRNG would not be di
 You should repeat the procedure for all possible $\frac{\sigma_{tot}}{T_{1}}$ and $\alpha_{1}$ values.
 
 [![Binder](ex1.png)](https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex1/main?urlpath=voila%2Frender%2FTRNG_ex1_nb.ipynb)
-//To launch the exercise, click on the link below
-//https://mybinder.org/v2/gh/patrickhaddadteaching/TRNG_ex1/main?urlpath=voila%2Frender%2FTRNG_ex1_nb.ipynb
