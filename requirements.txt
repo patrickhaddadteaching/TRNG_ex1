@@ -2,3 +2,4 @@ voila>=0.1.8
 numpy
 matplotlib
 h5py
+zipfile
