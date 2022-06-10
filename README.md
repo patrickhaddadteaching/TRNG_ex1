@@ -8,4 +8,4 @@ Your goal is to find the the smallest $D$ for which the EO-TRNG would not be dis
 
 You should repeat the procedure for all possible $\frac{\sigma_{tot}}{T_{1}}$ and $\alpha_{1}$ values.
 
-Note: In the case of an ideal RNG, the distribution and the auto-correlation are in 99.9~\% of the cases between the red lines.
+Note: In the case of an ideal RNG, the distribution and the auto-correlation are in 99.9\% of the cases between the red lines.
