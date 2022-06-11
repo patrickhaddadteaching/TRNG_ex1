@@ -15,7 +15,7 @@ You should repeat the procedure for all possible $\frac{\sigma_{tot}}{T_{1}}$ an
 
 
 ## How to launch the exercise ?
-* We can execute this exercise on [Colab](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex4/blob/main/TRNG_ex1_nb.ipynb)
+* We can execute this exercise on [Colab](https://colab.research.google.com/github/patrickhaddadteaching/TRNG_ex1/blob/main/TRNG_ex1_nb.ipynb)
 * The exercise is a jupyter notebook compatible with voila.
 The following libraries are required:
     * numpy
