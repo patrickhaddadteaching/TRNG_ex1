@@ -20,7 +20,6 @@ You should repeat the procedure for all possible $\frac{\sigma_{tot}}{T_{1}}$ an
 * The exercise is a jupyter notebook compatible with voila.
 The following libraries are required:
     * numpy
-    * h5py
     * matplotlib
 ## Examples of procedures to execute the exercise with different systems.
 1. Windows
@@ -33,7 +32,6 @@ The following libraries are required:
      ```
         conda install jupyter
         conda install numpy
-        conda install h5py
         conda install matplotlib
         conda install -c conda-forge voila    
     ```
