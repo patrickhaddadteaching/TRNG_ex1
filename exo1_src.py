@@ -157,7 +157,6 @@ def generate_rnd(std_dev_value_widgets_in,sample_period_value,duty_cycle_value,s
     raw_bytes.value=s_line_raw_bytes_value   
     
     if save_data_in_file==True:
-        s_line=''
         now = datetime.now()
         str_time = now.strftime("%d-%m-%Y_%Hh%Mm%Ss%fms")
         randomvalues_file_name='ex1_a%s_jit%s_D%d_%s.txt'%(duty_cycle_value,std_dev_value,sample_period_value,str_time)
@@ -165,7 +164,7 @@ def generate_rnd(std_dev_value_widgets_in,sample_period_value,duty_cycle_value,s
             mkdir('random_values')
             
         fid_rnd_file=open('random_values/%s'%randomvalues_file_name,'w')
-        fid_rnd_file.write(s_line)
+        fid_rnd_file.write(s_line_raw_bytes_value)
         fid_rnd_file.close()
 
         path_to_download='%s'%(randomvalues_file_name)
